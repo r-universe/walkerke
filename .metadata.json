@@ -1,0 +1,10 @@
+[
+  {
+    "package": "tidycensus",
+    "oncran": true
+  },
+  {
+    "package": "tigris",
+    "oncran": true
+  }
+]
