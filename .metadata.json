@@ -1,10 +1,10 @@
 [
   {
-    "package": "tigris",
+    "package": "tidycensus",
     "oncran": true
   },
   {
-    "package": "tidycensus",
+    "package": "tigris",
     "oncran": true
   }
 ]
