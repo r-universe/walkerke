@@ -3,6 +3,21 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "crsuggest"]
+	path = crsuggest
+	url = https://github.com/walkerke/crsuggest
+	shallow = true
+	registered = true
+[submodule "idbr"]
+	path = idbr
+	url = https://github.com/walkerke/idbr
+	shallow = true
+	registered = true
+[submodule "mapboxapi"]
+	path = mapboxapi
+	url = https://github.com/walkerke/mapboxapi
+	shallow = true
+	registered = true
 [submodule "tidycensus"]
 	path = tidycensus
 	url = https://github.com/walkerke/tidycensus
