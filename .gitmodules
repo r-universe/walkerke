@@ -11,6 +11,9 @@
 [submodule "mapboxapi"]
 	path = mapboxapi
 	url = https://github.com/walkerke/mapboxapi
+[submodule "mapgl"]
+	path = mapgl
+	url = https://github.com/walkerke/mapgl
 [submodule "tidycensus"]
 	path = tidycensus
 	url = https://github.com/walkerke/tidycensus
