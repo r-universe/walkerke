@@ -1,22 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/walkerke/walkerke.r-universe.dev
 	branch = HEAD
-[submodule "crsuggest"]
-	path = crsuggest
-	url = https://github.com/walkerke/crsuggest
-[submodule "idbr"]
-	path = idbr
-	url = https://github.com/walkerke/idbr
-[submodule "mapboxapi"]
-	path = mapboxapi
-	url = https://github.com/walkerke/mapboxapi
-[submodule "mapgl"]
-	path = mapgl
-	url = https://github.com/walkerke/mapgl
-[submodule "tidycensus"]
-	path = tidycensus
-	url = https://github.com/walkerke/tidycensus
-[submodule "tigris"]
-	path = tigris
-	url = https://github.com/walkerke/tigris
+[submodule "pmtiles"]
+	path = pmtiles
+	url = https://github.com/walkerke/pmtiles
