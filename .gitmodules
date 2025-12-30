@@ -20,6 +20,9 @@
 [submodule "pmtiles"]
 	path = pmtiles
 	url = https://github.com/walkerke/pmtiles
+[submodule "spopt"]
+	path = spopt
+	url = https://github.com/walkerke/spopt-r
 [submodule "tidycensus"]
 	path = tidycensus
 	url = https://github.com/walkerke/tidycensus
