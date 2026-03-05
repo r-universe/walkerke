@@ -5,6 +5,9 @@
 [submodule "crsuggest"]
 	path = crsuggest
 	url = https://github.com/walkerke/crsuggest
+[submodule "freestiler"]
+	path = freestiler
+	url = https://github.com/walkerke/freestiler
 [submodule "geosam"]
 	path = geosam
 	url = https://github.com/walkerke/geosam
